@@ -13,6 +13,10 @@ Ver hover y focus para elementos interactivos en la página
 Seleccione y envíe una calificación numérica
 Ver el estado de la tarjeta "Gracias" después de enviar una calificación
 
+![mobil](https://user-images.githubusercontent.com/115027137/197568091-1496af2c-f51c-4f1f-992c-2661d74c5d46.png)
+
+![descktop](https://user-images.githubusercontent.com/115027137/197568105-432a6a8f-9b0c-48ba-8312-c4f7d013c666.png)
+
 
 
 
@@ -22,7 +26,9 @@ Ver el estado de la tarjeta "Gracias" después de enviar una calificación
 
 - Aplicacion de css 
 
-Se creo un nuevo diseño, utilizando muchas de las propiedades y conceptos aprendidos.
+- Aplicacion codigo JavaScript
+
+Realizamos un diseño interactivo contando con la inclusion de lenguaje JavaScript para la interacion entre botones de nuestro pryecto  
 
 
 <h1>construido con</h1>
@@ -30,35 +36,27 @@ Se creo un nuevo diseño, utilizando muchas de las propiedades y conceptos apren
 - Marcado HTML5 semántico
 - Propiedades personalizadas de CSS
 - caja flexible
+- programacion JavaScript
 
  <h1>Aprendi</h1>
-Afiance conocientos que hemos venido trabajando cque son importantes a la hora de crear nuestros diseños. 
+resolvimos estrucuturas logicas para la implementacion de menu interactivo entre dos bloques de segmento y asi volverlo una forma interactiva que puede tener el usuario.  
 
-``` .section2 h8{
-    filter: opacity(0.5);
-    margin-left: 1rem;
-    
+``` 
+.rating-option:focus{
+  background-color: black;
+  filter: opacity(0.4);
+
 }
 
+.hidden {
+  visibility: hidden;
+}
 
-body {
-    display: flex;
-    justify-content: center;
-    width: 115.9%;
-    margin-left: 5%;
-    
-}
-.section1 p{
-    color: hsl(195, 5%, 69%);
-    margin-right: 10%;
-    font-size: 15px;
-    line-height: 30px;
-}
 ```
     
     
 <h1>desarrollo continuo</h1>
-Aprender cada vez mas sobre las propiedades que nos pueden ser mas utiles en nuestro codigo para asi darle un mejor rendimiento y entendimiento del mismo.
+Ir cada vez mas aunmentando en el conocimiento de mas propiedades para la implementacion de un codigo mas limpio y apropiado 
 
 <h1>Recursos utiles</h1>
 
@@ -66,4 +64,4 @@ Aprender cada vez mas sobre las propiedades que nos pueden ser mas utiles en nue
 
 <h1>Expresiones de gratitud</h1>
 
-- agradecimiento a las compañera Diana Carolina Quinche por el buen trbajo en equipo.
+- agradecimiento a las compañera Juan Camilo Orjuela.
