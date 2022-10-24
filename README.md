@@ -60,7 +60,7 @@ Ir cada vez mas aunmentando en el conocimiento de mas propiedades para la implem
 
 <h1>Recursos utiles</h1>
 
-* [MaterialApoyo](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - [MAp](https://www.htmlhelp.com/es/reference/css/properties.html)
+* [MaterialApoyo](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - [MAp](https://desarrolloweb.com/articulos/1236.phpl)
 
 <h1>Expresiones de gratitud</h1>
 
